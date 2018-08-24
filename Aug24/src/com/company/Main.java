@@ -9,9 +9,9 @@ public class Main {
 
         //OddOrEvenV2.OddOrEven();
         //SecondExe.everyIntegerBetweenTheTwoInserted();
-      // ThirdExeV2.TestScoreStatistics();
+         ThirdExeV2.TestScoreStatistics();
         // ThirdExe.main();
-        LastExe.main();
+        // LastExe.main();
     }
 
 

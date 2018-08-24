@@ -6,19 +6,22 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class ThirdExeV2 {
-    static void TestScoreStatistics (){
+    static void TestScoreStatistics() {
+        int max = 0;
+        int min = 100;
         Scanner inputScore = new Scanner(System.in);
         //int studentScoreInput = inputScore.nextInt();
 
         ArrayList<Integer> arr = new ArrayList<>();
 
 
-        while ( 3 != 999 ){
-            int qq =  inputScore.nextInt();
+        boolean running = true;
+        while (running) {
+            int qq = inputScore.nextInt();
             if (qq == 999) {
-                break;
+                running = false;
             }
-            if ( qq < 0 || qq > 100){
+            if (qq < 0 || qq > 100) {
                 System.out.println("Please input a score between 0 and 100 : ");
                 continue;
             }
@@ -26,11 +29,19 @@ public class ThirdExeV2 {
         }
         System.out.println(arr);
         int sum = 0;
-        for (int element:arr){
+        for (int element : arr) {
+            if (max < element) {
+                max = element;
+            }
+            if (min > element) {
+                min = element;
+            }
             sum += element;
         }
+        System.out.println("Maximum score is : " + max);
+        System.out.println("Minimum score is : " + min);
         float average = sum / arr.size();
-        System.out.println(average);
+        System.out.println("Average score is : " + average);
 
     }
 }
