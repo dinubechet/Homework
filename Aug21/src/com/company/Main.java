@@ -52,4 +52,6 @@ public class Main {
          }System.out.printf("The total retail value of all products is: %.2f $",value);
     }
 
+
+
 }
