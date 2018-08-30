@@ -10,7 +10,7 @@ public class Main {
         //moneyMakingHuntington();
         //convertingDollars();
        // timeConversion();
-        playMadLibs();
+        //playMadLibs();
     }
 
     static void printInitials() {
