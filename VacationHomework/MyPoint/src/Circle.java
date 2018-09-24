@@ -3,6 +3,7 @@ public class Circle {
     private int radius;
 
     public Circle() {
+        this.center = new MyPoint(0,0);
     }
 
     public Circle(int x , int y , int radius) {
@@ -69,10 +70,10 @@ public class Circle {
     }
 
     public double distance (Circle anotherCircle){
-        MyPoint point = anotherCircle.getCenter();
+      /*  MyPoint point = anotherCircle.getCenter();
         double distance = Math.sqrt(Math.pow(point.getX()-getCenterX(),2)+(Math.pow(point.getY()-getCenterY(),2)));
-        System.out.println(distance);
-        return distance;
+        System.out.println(distance);*/
+        return this.getCenter().distance(anotherCircle.getCenter());
     }
 
     @Override
