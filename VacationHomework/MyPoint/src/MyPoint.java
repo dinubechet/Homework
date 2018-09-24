@@ -1,6 +1,6 @@
 public class MyPoint {
-    private int x=0;
-    private int y=0;
+    private int x = 0;
+    private int y = 0;
 
 
     public MyPoint() {
@@ -35,14 +35,16 @@ public class MyPoint {
         this.x = x;
         this.y = y;
     }
-    public double distance(int x , int y){
-       double distance = Math.sqrt(Math.pow(x-this.x,2)+(Math.pow(y-this.y,2)));
+
+    public double distance(int x, int y) {
+        double distance = Math.sqrt(Math.pow(x - this.x, 2) + (Math.pow(y - this.y, 2)));
         System.out.println(distance);
         return distance;
 
     }
-    public double distance(MyPoint anotherPoint){
-        double distance = Math.sqrt(Math.pow(this.x-anotherPoint.getX(),2)+Math.pow(this.y-anotherPoint.getY(),2));
+
+    public double distance(MyPoint anotherPoint) {
+        double distance = Math.sqrt(Math.pow(this.x - anotherPoint.getX(), 2) + Math.pow(this.y - anotherPoint.getY(), 2));
         System.out.println(distance);
         return distance;
     }

@@ -30,13 +30,13 @@ public class MyTriangle {
     }
 
     public String getType() {
-        String type ;
-        if (v1.distance(v2) == v2.distance(v3) && v2.distance(v3) == v3.distance(v1)){
+        String type;
+        if (v1.distance(v2) == v2.distance(v3) && v2.distance(v3) == v3.distance(v1)) {
             type = "Equilateral";
-        }else if (v1.distance(v2) == v2.distance(v3) || v2.distance(v3) == v3.distance(v1) ||
-                v1.distance(v2) == v3.distance(v1)){
+        } else if (v1.distance(v2) == v2.distance(v3) || v2.distance(v3) == v3.distance(v1) ||
+                v1.distance(v2) == v3.distance(v1)) {
             type = "Isosceles";
-        }else type = "Scalene";
+        } else type = "Scalene";
         return type;
     }
 }

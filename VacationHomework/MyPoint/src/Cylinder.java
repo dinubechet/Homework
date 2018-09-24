@@ -1,4 +1,4 @@
-public class Cylinder extends ColouredCircle{
+public class Cylinder extends ColouredCircle {
 
     private double height = 1.0;
 
@@ -10,13 +10,13 @@ public class Cylinder extends ColouredCircle{
         this.height = height;
     }
 
-    public Cylinder(double radius , double height){
-        this.height=height;
+    public Cylinder(double radius, double height) {
+        this.height = height;
         this.setRadius(radius);
     }
 
-    public Cylinder(double radius , double height , String color){
-        this.height=height;
+    public Cylinder(double radius, double height, String color) {
+        this.height = height;
         this.setRadius(radius);
         this.setColor(color);
     }
@@ -29,8 +29,8 @@ public class Cylinder extends ColouredCircle{
         this.height = height;
     }
 
-    public double getVolume(){
-        double volume = this.getArea()*this.getHeight();
+    public double getVolume() {
+        double volume = this.getArea() * this.getHeight();
         return volume;
     }
 

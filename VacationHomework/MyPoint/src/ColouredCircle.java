@@ -19,8 +19,8 @@ public class ColouredCircle {
         this.color = color;
     }
 
-    public double getArea(){
-        double area = Math.PI *(Math.pow(radius,2));
+    public double getArea() {
+        double area = Math.PI * (Math.pow(radius, 2));
         return area;
     }
 

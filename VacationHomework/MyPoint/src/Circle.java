@@ -59,7 +59,7 @@ public class Circle {
     }
 
     public double getArea(){
-        double area = Math.PI *(Math.pow(radius,2));
+        double area = Math.PI * (Math.pow(radius, 2));
         return area;
     }
 
