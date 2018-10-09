@@ -6,13 +6,6 @@
       <change afterPath="$PROJECT_DIR$/../CustomerWithGender/src/Account.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CustomerWithGender/src/Customer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CustomerWithGender/src/TestAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DuplicateElimination.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DuplicateElimination.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MyComplex/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MyComplex/src/MyComplex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Basic1/Basic1.iml" beforeDir="false" />
@@ -25,6 +18,9 @@
       <change beforePath="$PROJECT_DIR$/../Card/src/PickTwoCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Card/src/PickTwoCards.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Circle/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Circle/src/Circle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ConstructID/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructID/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DuplicateElimination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DuplicateElimination.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Game/src/MyCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Game/src/MyCharacter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyPoint/src/MyPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPoint/src/MyPoint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PhoneNumberFormat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PhoneNumberFormat/.idea/workspace.xml" afterDir="false" />
@@ -45,6 +41,7 @@
     <session id="1110938178">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -61,12 +58,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1496" />
+          <entry key="java" value="1557" />
+          <entry key="txt" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1496" />
+          <entry key="JAVA" value="1557" />
+          <entry key="PLAIN_TEXT" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -77,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DuplicateElimination.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+            <state relative-caret-position="221">
+              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,8 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            <state relative-caret-position="34">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -149,7 +148,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538931382854" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538931948450" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.DuplicateElimination">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo" />
       <module name="DuplicateElimination" />
@@ -184,8 +183,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.DuplicateElimination" />
+        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -200,10 +199,19 @@
       <option name="presentableId" value="Default" />
       <updated>1538920269560</updated>
     </task>
+    <task id="LOCAL-00001" summary="Duplicate Elimination exerc">
+      <created>1538931485064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538931485064</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -218,7 +226,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32911393" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27689874" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27689874" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35126582" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -236,18 +244,22 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Duplicate Elimination exerc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Duplicate Elimination exerc" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DuplicateElimination.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+        <state relative-caret-position="221">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

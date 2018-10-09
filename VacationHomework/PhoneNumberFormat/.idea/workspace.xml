@@ -8,17 +8,6 @@
       <change afterPath="$PROJECT_DIR$/../CustomerWithGender/src/TestAccount.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MyComplex/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MyComplex/src/MyComplex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PhoneNumberFormat.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PhoneNumberFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ValidatePassword/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ValidatePassword/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ValidatePassword/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ValidatePassword/ValidatePassword.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Basic1/Basic1.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../FlowControl/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../FlowControl/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Sandwich/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sandwich/.idea/workspace.xml" afterDir="false" />
@@ -28,10 +17,14 @@
       <change beforePath="$PROJECT_DIR$/../Bread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bread/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Card/src/PickTwoCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Card/src/PickTwoCards.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Circle/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Circle/src/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructID/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructID/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Game/src/MyCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Game/src/MyCharacter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyPoint/src/MyPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPoint/src/MyPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PigLatin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PigLatin/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PigLatin/src/PigLatin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PigLatin/src/PigLatin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringPolindrom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringPolindrom/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringPolindrom/src/Polindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StringPolindrom/src/Polindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/com/company/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -45,8 +38,10 @@
     <session id="15534605">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -61,33 +56,35 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="811" />
+          <entry key="java" value="813" />
+          <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="811" />
+          <entry key="JAVA" value="813" />
+          <entry key="PLAIN_TEXT" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/PhoneNumberFormat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            <state relative-caret-position="204">
+              <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -128,6 +125,7 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,11 +137,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538497036597" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538655217606" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -194,23 +191,27 @@
       <option name="presentableId" value="Default" />
       <updated>1538493726197</updated>
     </task>
+    <task id="LOCAL-00001" summary="The phone number app">
+      <created>1538497128135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538497128135</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32911393" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
@@ -218,18 +219,26 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32911393" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The phone number app" />
+    <option name="LAST_COMMIT_MESSAGE" value="The phone number app" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
@@ -245,15 +254,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PhoneNumberFormat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        <state relative-caret-position="204">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
         </state>
       </provider>
     </entry>

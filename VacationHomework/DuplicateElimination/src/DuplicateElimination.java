@@ -27,9 +27,9 @@ public class DuplicateElimination {
         System.out.println(Arrays.toString(inputNumbers));
     }
 
-    ArrayList<Integer> numbers = new ArrayList<>();
 
     public void checkDupe() {
+        ArrayList<Integer> numbers = new ArrayList<>();
         Scanner scan = new Scanner(System.in);
 
         for (int i = 0; i < 5; i++) {

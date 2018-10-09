@@ -44,7 +44,8 @@ public class MyPoint {
     }
 
     public double distance(MyPoint anotherPoint) {
-        double distance = Math.sqrt(Math.pow(this.x - anotherPoint.getX(), 2) + Math.pow(this.y - anotherPoint.getY(), 2));
+        double distance = Math.sqrt(Math.pow(this.x - anotherPoint.getX(), 2) +
+                Math.pow(this.y - anotherPoint.getY(), 2));
         System.out.println(distance);
         return distance;
     }

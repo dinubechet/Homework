@@ -1,22 +1,28 @@
-public class Patient extends BloodData {
+public class Patient  {
     private int id;
     private int age;
-    private BloodData blood = new BloodData(getBloodType(), getRhesusFactor());
+    private BloodData bloodData;
 
     public Patient() {
         this.id = 0;
         this.age = 0;
-        blood.setBloodType("O");
-        blood.setRhesusFactor('+');
+        this.bloodData = new BloodData("O",'+');
 
     }
 
-    public Patient(String bloodType, char rhesusFactor, int id, int age) {
-        super.getBloodType();
-        super.getRhesusFactor();
+
+    public Patient(BloodData bloodData, int id, int age) {
+     setId(id);
+     setAge(age);
+     setBloodData(bloodData);
+    }
+
+    public void setId(int id) {
         this.id = id;
+    }
+
+    public void setAge(int age) {
         this.age = age;
-        this.blood = blood;
     }
 
     public int getId() {
@@ -26,14 +32,13 @@ public class Patient extends BloodData {
     public int getAge() {
         return age;
     }
-
-    public BloodData getBlood() {
-        return blood;
+    public BloodData getBloodData() {
+        return bloodData;
     }
 
-    public void showInfo2() {
-        System.out.println("The blood type for id  : " + getId() + " and the age of " + getAge() + " is ");
-        System.out.println(getBloodType() + " and Rh " + getRhesusFactor());
-
+    public void setBloodData(BloodData bloodData) {
+        this.bloodData = bloodData;
     }
+
+
 }

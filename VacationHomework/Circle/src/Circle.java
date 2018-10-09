@@ -7,6 +7,10 @@ public class Circle {
         setRadius(1);
     }
 
+    public Circle( double radius ){
+        setRadius(radius);
+    }
+
     public double getRadius() {
         return radius;
     }

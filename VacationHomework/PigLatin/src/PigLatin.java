@@ -13,14 +13,13 @@ public class PigLatin {
             if (word.substring(i, i + 1).equalsIgnoreCase("a") || word.substring(i, i + 1).equalsIgnoreCase("e")
                     || word.substring(i, i + 1).equalsIgnoreCase("i") || word.substring(i, i + 1).equalsIgnoreCase("o")
                     || word.substring(i, i + 1).equalsIgnoreCase("u")) {
-                for (int j = i ; j < word.length();j++){
+                for (int j = i; j < word.length(); j++) {
                     System.out.print(word.charAt(j));
                 }
                 System.out.print(temp);
                 System.out.print("ay");
                 break;
-            }
-            else temp+=word.charAt(i);
+            } else temp += word.charAt(i);
         }
     }
 }

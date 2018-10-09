@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
         //  identifyOddOrEvenInteger();
-        // compareIntegers();
+        compareIntegers();
         // chooseBestPlan();
         // guessTheLottery();
         // playingRockPaperScissors();
@@ -38,12 +38,17 @@ public class Main {
         int thirdInput = scan.nextInt();
         if (firstInput > secondInput && secondInput > thirdInput) {
             System.out.println(firstInput + " , " + secondInput + " , " + thirdInput);
+            System.out.println(thirdInput + " , " + secondInput + " , " + firstInput);
         } else if (secondInput > firstInput && firstInput > thirdInput) {
             System.out.println(secondInput + " , " + firstInput + " , " + thirdInput);
+            System.out.println(thirdInput + " , " + firstInput + " , " + secondInput);
         } else if (thirdInput > secondInput && secondInput > firstInput) {
             System.out.println(thirdInput + " , " + secondInput + " , " + firstInput);
-        } else
+            System.out.println(firstInput + " , " + secondInput + " , " + thirdInput);
+        } else {
             System.out.println(firstInput + " , " + thirdInput + " , " + secondInput);
+            System.out.println(secondInput + " , " + secondInput + " , " + firstInput);
+        }
     }
 
     static void chooseBestPlan() {

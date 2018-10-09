@@ -32,7 +32,7 @@ public class BirthdayChecker {
                 break;
             }
         }
-        if (found == false) {
+        if (!found) {
             System.out.println("Person not found");
         }
     }

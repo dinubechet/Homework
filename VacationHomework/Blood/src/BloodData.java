@@ -32,4 +32,5 @@ public class BloodData {
         System.out.println("The blood type is " + getBloodType() + " and Rh " + getRhesusFactor());
     }
 
+
 }

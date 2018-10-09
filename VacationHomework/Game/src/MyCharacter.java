@@ -8,20 +8,20 @@ public class MyCharacter {
     public MyCharacter(String race, String profession, String name) {
         this.race = race;
         this.name = name;
-        this.profession=profession;
-        if (profession== "Warrior") {
-            setStamina( + 50);
-            setIntellect(+ 10);
-        }else if (profession=="Mage"){
-            setStamina( + 10);
-            setIntellect(+ 50);
+        this.profession = profession;
+        if (profession == "Warrior") {
+            setStamina(+50);
+            setIntellect(+10);
+        } else if (profession == "Mage") {
+            setStamina(+10);
+            setIntellect(+50);
         }
-        if (race=="Ork"){
-            setStamina(this.stamina+15);
-            setIntellect(this.intellect+5);
-        }else if (race=="Human"){
-            setStamina(this.stamina+5);
-            setIntellect(this.intellect+15);
+        if (race == "Ork") {
+            setStamina(this.stamina + 15);
+            setIntellect(this.intellect + 5);
+        } else if (race == "Human") {
+            setStamina(this.stamina + 5);
+            setIntellect(this.intellect + 15);
         }
     }
 
@@ -30,7 +30,7 @@ public class MyCharacter {
     }
 
     public void setProfession(String profession) {
-       this.profession=profession;
+        this.profession = profession;
     }
 
     public String getRace() {
@@ -38,7 +38,7 @@ public class MyCharacter {
     }
 
     public void setRace(String race) {
-    this.race=race;
+        this.race = race;
     }
 
     public int getStamina() {
@@ -46,7 +46,7 @@ public class MyCharacter {
     }
 
     public void setStamina(int stamina) {
-        this.stamina=stamina;
+        this.stamina = stamina;
     }
 
     public int getIntellect() {
@@ -54,7 +54,7 @@ public class MyCharacter {
     }
 
     public void setIntellect(int intellect) {
-        this.intellect=intellect;
+        this.intellect = intellect;
     }
 
     public String getName() {
@@ -64,7 +64,8 @@ public class MyCharacter {
     public void setName(String name) {
         this.name = name;
     }
-    public void showAttributes(){
+
+    public void showAttributes() {
         System.out.print(getName() + " is a " + getRace() + " " + getProfession() + " with " + getStamina() + " Stamina and ");
         System.out.println(getIntellect() + " Intellect ");
     }
