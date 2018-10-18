@@ -7,13 +7,13 @@ public class DemoTurner {
         Turner page = new Page();
         page.turn();
 
-        Pancake pancake = new Pancake();
+        Turner pancake = new Pancake();
         pancake.turn();
 
-        Guy guy = new Guy();
+        Turner guy = new Guy();
         guy.turn();
 
-        Dodon dodon = new Dodon();
+        Turner dodon = new Dodon();
         dodon.turn();
     }
 }
