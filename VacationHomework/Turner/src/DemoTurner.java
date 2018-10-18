@@ -9,5 +9,11 @@ public class DemoTurner {
 
         Pancake pancake = new Pancake();
         pancake.turn();
+
+        Guy guy = new Guy();
+        guy.turn();
+
+        Dodon dodon = new Dodon();
+        dodon.turn();
     }
 }
