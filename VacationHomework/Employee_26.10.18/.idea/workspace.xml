@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6de2f9d3-63e6-4512-968d-d429610bb144" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/src/CalcInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/src/CalculatorForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/src/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarbonFootprint/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarbonFootprint/src/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarbonFootprint/src/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarbonFootprint/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CollegeList/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Date/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Date/src/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Date/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DayOfWeek/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DayOfWeek/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DayOfWeek/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DayOfWeek/DayOfWeek.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Employee_26.10.18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProductionWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilesTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilesTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilesTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilesTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilesTest/FilesTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilesTest/src/FilesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HugeInteger/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HugeInteger/src/HugeInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ItemsAndPets/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ItemsAndPets/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ItemsAndPets/src/ItemSold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ItemsAndPets/src/PetSold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Majors/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Majors/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Majors/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Majors/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Majors/Majors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Majors/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Majors/src/MajorBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Majors/src/Majors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeanMedian/src/V2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SavingsAccount/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SavingsAccount/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SavingsAccount/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SavingsAccount/SavingsAccount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThePoem/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BirthdayChecker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BirthdayChecker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Books(Interfaces)/src/BookArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Books(Interfaces)/src/BookArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Building(interfceAbstractClasses)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Building(interfceAbstractClasses)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DuplicateElimination/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DuplicateElimination/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Horse/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Horse/src/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Horse/src/RaceHorse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Horse/src/RaceHorse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeanMedian/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MeanMedian/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeanMedian/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MeanMedian/src/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PigLatin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PigLatin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Runner/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Runner/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SetOfIntegers/src/IntegerSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SetOfIntegers/src/IntegerSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Turner/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Turner/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidatePassword/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidatePassword/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-477422104">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="369" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="369" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="42" column="50" lean-forward="true" selection-start-line="40" selection-start-column="16" selection-end-line="42" selection-end-column="50" />
+              <folding>
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#592#593#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+                <element signature="e#723#724#0" expanded="true" />
+                <element signature="e#754#755#0" expanded="true" />
+                <element signature="e#802#803#0" expanded="true" />
+                <element signature="e#842#843#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ProductionWorker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+              <folding>
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#623#624#0" expanded="true" />
+                <element signature="e#673#674#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Employee.java" />
+        <option value="$PROJECT_DIR$/src/Demo.java" />
+        <option value="$PROJECT_DIR$/src/ProductionWorker.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Employee_26.10.18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Employee_26.10.18" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540468280494" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="Employee_26.10.18" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6de2f9d3-63e6-4512-968d-d429610bb144" name="Default Changelist" comment="" />
+      <created>1540466765110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540466765110</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="42" column="50" lean-forward="true" selection-start-line="40" selection-start-column="16" selection-end-line="42" selection-end-column="50" />
+          <folding>
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProductionWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+          <folding>
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
